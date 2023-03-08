@@ -8,8 +8,12 @@ Servo on  :  D4 (2) +  G + 3V  via pin header  (No soldering needed if your Node
 Design is found on :  https://www.tinkercad.com/things/knLzWGLPc7d
 
 
+![image](https://user-images.githubusercontent.com/74420584/223797055-5f5aa8f2-9768-415b-a0aa-796890bd33fe.png)
+
 
 # MQTT
+
+In this code you can send 3 commands via an MQTT message :  1 (open), 2(middle), 3 (closed)
 
 *  Source code for uploading to your ESP8266.
 *  This programm will connect to an MQTT broker (mqtt_broker) and drive a servo
