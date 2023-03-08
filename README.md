@@ -5,6 +5,8 @@ Hardware :  ESP8266 (NODEMCU v3)
 
 Servo on  :  D4 (2) +  G + 3V  via pin header  (No soldering needed if your NodeMCU has already pins on it.) 
 
+Design is found on :  https://www.tinkercad.com/things/knLzWGLPc7d
+
 
 
 # MQTT
