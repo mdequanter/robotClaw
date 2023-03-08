@@ -1,6 +1,10 @@
 # robotClaw
 Multiple ways to program an ESP8266 driven robotic claw
 
+Hardware :  ESP8266 (NODEMCU v3)
+
+Servo on  :  D4 (2) +  G + 3V  via pin header  (No soldering needed if your NodeMCU has already pins on it.) 
+
 
 
 # MQTT
@@ -22,3 +26,6 @@ Multiple ways to program an ESP8266 driven robotic claw
 *  A standard hobby servo(180 degrees) is used for this claw.
 *  example :  http://192.168.1.4/?left=0&right=0 (claw fully open)
 *  example :  http://192.168.1.4/?left=180 (claw fully closed)
+
+
+
