@@ -29,6 +29,12 @@ In this code you can send 3 commands via an MQTT message :  1 (open), 2(middle),
 *  You can connect by installing MQTT explorer or any other MQTT client.
 *  If you setup your own broker, you will have to set it up and also set the username and password.
 
+
+Install following modules :
+
+![image](https://user-images.githubusercontent.com/74420584/224019345-0a48f448-3f9b-484b-a7ee-ac72b420e5fb.png)
+
+
 # Workshopclaw
 
 *  Source code for uploading to your ESP8266.
