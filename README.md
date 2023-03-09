@@ -2,6 +2,7 @@
 Multiple ways to program an ESP8266 driven robotic claw
 
 Hardware :  ESP8266 (NODEMCU v3)
+http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 Servo on  :  D4 (2) +  G + 3V  via pin header  (No soldering needed if your NodeMCU has already pins on it.) 
 
