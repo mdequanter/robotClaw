@@ -11,7 +11,7 @@ Design is found on :  https://www.tinkercad.com/things/knLzWGLPc7d
 ![image](https://user-images.githubusercontent.com/74420584/223797055-5f5aa8f2-9768-415b-a0aa-796890bd33fe.png)
 
 
-Via an app on your phone MQTT Dashboard, you can create a remote conytrolled robot:
+Via an app on your phone MQTT Dashboard, you can create a remote controlled robot:
 
 https://play.google.com/store/apps/details?id=com.app.vetru.mqttdashboard&gl=US
 
